@@ -1,16 +1,16 @@
-Sustainable Water Development in Chennai
+**Sustainable Water Development in Chennai**
 
 
-Overview
+**Overview**
 Water scarcity is a significant issue in Chennai due to rapid urbanization, climate change, and poor water management. This project employs Exploratory Data Analysis (EDA), regression models, and machine learning techniques (ARIMA) to analyze historical data and predict future water availability trends.
 
-Key Features
+**Key Features**
 ✅ Data Analysis – Visualization of water availability trends using graphs, charts, and maps.
 ✅ Predictive Modeling – ARIMA model for forecasting rainfall and reservoir levels.
 ✅ Water Quality Analysis – Assessing parameters like pH, hardness, and total dissolved solids.
 ✅ Sustainable Water Management Strategies – Policy recommendations based on findings.
 
-Dataset
+**Dataset**
 The dataset includes historical data on:
 
 🌧️ Rainfall patterns (2010-2021)
@@ -23,7 +23,7 @@ To run the analysis, install the required Python packages:
 
 
 pip install pandas numpy matplotlib seaborn statsmodels  
-Running the Project
+*Running the Project*
 1️⃣ Clone the repository:
 
 
@@ -35,7 +35,7 @@ cd your-repo-name
 python analysis.py  
 3️⃣ Check the results for EDA and predictive analysis.
 
-Project Structure
+**Project Structure**
 bash
 Copy
 Edit
@@ -44,25 +44,25 @@ Edit
 📂 notebooks/             # Jupyter notebooks for EDA and modeling  
 📂 results/               # Generated reports and graphs  
 📜 README.md              # Project documentation (this file)  
-Results & Findings
+**Results & Findings**
 📌 Rainfall Patterns – Most rainfall occurs from October to December, with peaks in November.
 📌 Reservoir Levels – Chembarambakkam and Redhills reservoirs contribute ~75% of Chennai's water supply.
 📌 Water Quality – High variation in pH, hardness, and total dissolved solids across sources.
 📌 Predictive Modeling – Forecasts for 2024 indicate potential stress on water availability if current trends continue.
 
-Future Improvements
+**Future Improvements**
 🚀 Incorporating real-time data for improved model accuracy.
 🚀 Expanding the scope to include wastewater management and groundwater recharge.
 🚀 Applying deep learning models for enhanced forecasting.
 
-References
+**References**
 📚 [Jayaprakash & Sreekanth (2018)]
 📚 [Gnanachandrasamy et al. (2019)]
 📚 [Govindarajan et al. (2016)]
 📚 [Dev & Aravindhan (2017)]
 📚 [Ramakrishnan et al. (2017)]
 
-License
+**License**
 📜 This project is licensed under the MIT License.
 
 Developed as part of the Winter 2022-2023 CSE3040 Exploratory Data Analytics Course at VIT Chennai.
