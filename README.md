@@ -1,7 +1,7 @@
-<h1>**Sustainable Water Development in Chennai**</h1>
+<h1>Sustainable Water Development in Chennai</h1>
 
 
-**Overview**
+<h3>Overview</h3>
 Water scarcity is a significant issue in Chennai due to rapid urbanization, climate change, and poor water management. This project employs Exploratory Data Analysis (EDA), regression models, and machine learning techniques (ARIMA) to analyze historical data and predict future water availability trends.
 
 **Key Features**
